@@ -90,6 +90,19 @@ Currently, I’m working at **SanTech Company** as a **Database Manager**, where
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
 </a> 
 </p>
+## 🏗️ Past Work
+
+Here are some highlights of my past work and projects:
+
+<p align="center">
+  <img src="https://github.com/Rafisangin/Rafisangin/blob/main/photo_2025-09-09_11-42-30.jpg?raw=true" alt="Project 1" width="45%" style="margin: 10px; border-radius: 10px;"/>
+  <img src="images/project2.png" alt="Project 2" width="45%" style="margin: 10px; border-radius: 10px;"/>
+</p>
+
+<p align="center">
+  <img src="images/project3.png" alt="Project 3" width="45%" style="margin: 10px; border-radius: 10px;"/>
+  <img src="images/project4.png" alt="Project 4" width="45%" style="margin: 10px; border-radius: 10px;"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
