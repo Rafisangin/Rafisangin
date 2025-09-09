@@ -97,7 +97,12 @@ Currently, I’m working at **SanTech Company** as a **Database Manager**, focus
 </a> 
 </p>
 
-
+- 🌍 Helsinki, Finland
+- 📧 [asabenEh@gmail.com](mailto:asabenEh@gmail.com)
+- 🌐 [https://www.asabenEh.com](https://www.asabenEh.com)
+- 🐦 [@AsabenEh](https://x.com/AsabenEh)
+- 🎥 [channel/UCT7NRuno1rzYpB1xLa4yKtw](https://youtube.com/channel/UCT7NRuno1rzYpB1xLa4yKtw)
+- 💼 [in/asabenEh](https://linkedin.com/in/asabenEh)
 
 ## 🏗️ Past Work
 
