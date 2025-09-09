@@ -96,11 +96,11 @@ Here are some highlights of my past work and projects:
 
 <p align="center">
   <img src="https://github.com/Rafisangin/Rafisangin/blob/main/photo_2025-09-09_11-42-30.jpg?raw=true" alt="Project 1" width="45%" style="margin: 10px; border-radius: 10px;"/>
-  <img src="images/project2.png" alt="Project 2" width="45%" style="margin: 10px; border-radius: 10px;"/>
+  <img src="https://github.com/Rafisangin/Rafisangin/blob/main/photo_2025-09-09_11-42-43.jpg?raw=true" alt="Project 2" width="45%" style="margin: 10px; border-radius: 10px;"/>
 </p>
 
 <p align="center">
-  <img src="images/project3.png" alt="Project 3" width="45%" style="margin: 10px; border-radius: 10px;"/>
+  <img src="images/project3" alt="Project 3" width="45%" style="margin: 10px; border-radius: 10px;"/>
   <img src="images/project4.png" alt="Project 4" width="45%" style="margin: 10px; border-radius: 10px;"/>
 </p>
 
