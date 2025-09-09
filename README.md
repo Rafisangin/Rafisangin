@@ -43,6 +43,7 @@ Currently, I’m working at **SanTech Company** as a **Database Manager**, focus
 
 
 ## 🧰 Languages and Tools
+
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
@@ -91,18 +92,21 @@ Currently, I’m working at **SanTech Company** as a **Database Manager**, focus
 </a> 
 <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://github.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-</a> 
+</a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
 </p>
 
-- 🌍 Helsinki, Finland
-- 📧 [asabenEh@gmail.com](mailto:asabenEh@gmail.com)
-- 🌐 [https://www.asabenEh.com](https://www.asabenEh.com)
-- 🐦 [@AsabenEh](https://x.com/AsabenEh)
-- 🎥 [channel/UCT7NRuno1rzYpB1xLa4yKtw](https://youtube.com/channel/UCT7NRuno1rzYpB1xLa4yKtw)
-- 💼 [in/asabenEh](https://linkedin.com/in/asabenEh)
+
 
 ## 🏗️ Past Work
 
@@ -136,4 +140,4 @@ Currently, I’m working at **SanTech Company** as a **Database Manager**, focus
 
 
 
-**Thank you for visiting my GitHub profile! 🙏**
+**Thank you for visiting my GitHub profile! 🙏** 
